@@ -6,6 +6,6 @@ Run this:
 npx vicainelli
 ```
 
-and them...
+and then...
 
 ![npx-vicainelli.png](npx-vicainelli.png)
