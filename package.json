@@ -1,0 +1,27 @@
+{
+  "name": "vicainelli",
+  "version": "1.0.0",
+  "description": "Package with my personal card based on @glaucia86 project",
+  "main": "index.js",
+  "bin": {
+    "vicainelli": "./bin/card.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicainelli/vicainelli.git"
+  },
+  "author": "Vicainelli <vicainelli@gmail.com> (cainelli.dev)",
+  "bugs": {
+    "url": "https://github.com/vicainelli/vicainelli/issues"
+  },
+  "homepage": "https://github.com/vicainelli/vicainellie#readme"
+}
